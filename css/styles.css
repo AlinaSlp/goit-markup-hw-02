@@ -108,6 +108,10 @@ a {
     letter-spacing: 0.02em;
 }
 
+.team-list {
+    background-color: #fff;
+}
+
 .footer-text {
     color: #f4f4fd;
 }
